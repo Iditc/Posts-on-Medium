@@ -4,4 +4,5 @@
 ### Explainable AI (XAI) with SHAP - regression problem
 ### Explainable AI (XAI) with a Decision Tree
 ### Stationarity test for time series
-### More posts you can fined hear: https://idit-cohen.medium.com/
+### Assumptions of multiple linear regression
+### More posts you can find here: https://idit-cohen.medium.com/
